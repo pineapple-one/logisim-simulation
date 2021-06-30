@@ -9,5 +9,5 @@ I have tried to make this simulation as accurate to actual hardware as possible 
 How to run a program:
 * If the instructiom memory EEPROM is empty, load a new program in it. 
 * Reset the CPU (⌘ + R)
-* Manually clock the CPU, or turn on auto-tick (⌘ + K)
+* Manually clock the CPU (⌘ + T), or turn on auto-tick (⌘ + K)
 * The CPU will now execute the current program
